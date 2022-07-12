@@ -9,4 +9,4 @@
 - 렉스
 - 라쿤
 - 이프
-- 유콩
+- [유콩](https://github.com/2022-momo/github-branch-strategy-training/blob/feature-yukong/yukong.md)
